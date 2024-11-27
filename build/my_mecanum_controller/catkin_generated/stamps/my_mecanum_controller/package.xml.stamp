@@ -1,0 +1,16 @@
+<package format="2">
+  <name>my_mecanum_controller</name>
+  <version>0.0.0</version>
+  <description>Controller for Mecanum robot</description>
+  
+  <maintainer email="your_email@example.com">Your Name</maintainer>
+  <license>MIT</license>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>rospy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>std_msgs</depend>
+  
+  <export></export>
+</package>
+

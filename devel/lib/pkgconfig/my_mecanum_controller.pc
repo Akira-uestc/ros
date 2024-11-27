@@ -1,0 +1,8 @@
+prefix=/home/akira/catkin_ws/devel
+
+Name: my_mecanum_controller
+Description: Description of my_mecanum_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

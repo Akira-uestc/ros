@@ -1,0 +1,17 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~LEFT_REAR_P" : \b [double] LEFT_REAR wheel PID Controller P parameter min: 0.0, default: 10.0, max: 1000.0
+- \b "~LEFT_REAR_I" : \b [double] LEFT_REAR wheel PID Controller I parameter min: 0.0, default: 0.0, max: 1000.0
+- \b "~LEFT_REAR_D" : \b [double] LEFT_REAR wheel PID Controller D parameter min: 0.0, default: 0.0, max: 1000.0
+- \b "~LEFT_FRONT_P" : \b [double] LEFT_FRONT wheel PID Controller P parameter min: 0.0, default: 10.0, max: 1000.0
+- \b "~LEFT_FRONT_I" : \b [double] LEFT_FRONT wheel PID Controller I parameter min: 0.0, default: 0.0, max: 1000.0
+- \b "~LEFT_FRONT_D" : \b [double] LEFT_FRONT wheel PID Controller D parameter min: 0.0, default: 0.0, max: 1000.0
+- \b "~RIGHT_FRONT_P" : \b [double] RIGHT_FRONT wheel PID Controller P parameter min: 0.0, default: 10.0, max: 1000.0
+- \b "~RIGHT_FRONT_I" : \b [double] RIGHT_FRONT wheel PID Controller I parameter min: 0.0, default: 0.0, max: 1000.0
+- \b "~RIGHT_FRONT_D" : \b [double] RIGHT_FRONT wheel PID Controller D parameter min: 0.0, default: 0.0, max: 1000.0
+- \b "~RIGHT_REAR_P" : \b [double] RIGHT_REAR wheel PID Controller P parameter min: 0.0, default: 10.0, max: 1000.0
+- \b "~RIGHT_REAR_I" : \b [double] RIGHT_REAR wheel PID Controller I parameter min: 0.0, default: 0.0, max: 1000.0
+- \b "~RIGHT_REAR_D" : \b [double] RIGHT_REAR wheel PID Controller D parameter min: 0.0, default: 0.0, max: 1000.0
+

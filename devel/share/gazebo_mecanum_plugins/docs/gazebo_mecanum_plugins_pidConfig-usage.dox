@@ -1,0 +1,18 @@
+\subsubsection usage Usage
+\verbatim
+<node name="gazebo_mecanum_plugins" pkg="gazebo_mecanum_plugins" type="gazebo_mecanum_plugins">
+  <param name="LEFT_REAR_P" type="double" value="10.0" />
+  <param name="LEFT_REAR_I" type="double" value="0.0" />
+  <param name="LEFT_REAR_D" type="double" value="0.0" />
+  <param name="LEFT_FRONT_P" type="double" value="10.0" />
+  <param name="LEFT_FRONT_I" type="double" value="0.0" />
+  <param name="LEFT_FRONT_D" type="double" value="0.0" />
+  <param name="RIGHT_FRONT_P" type="double" value="10.0" />
+  <param name="RIGHT_FRONT_I" type="double" value="0.0" />
+  <param name="RIGHT_FRONT_D" type="double" value="0.0" />
+  <param name="RIGHT_REAR_P" type="double" value="10.0" />
+  <param name="RIGHT_REAR_I" type="double" value="0.0" />
+  <param name="RIGHT_REAR_D" type="double" value="0.0" />
+</node>
+\endverbatim
+
