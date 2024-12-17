@@ -131,10 +131,8 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/akira/catkin_ws/build/gtest/cmake_install.cmake")
-  include("/home/akira/catkin_ws/build/beginner_tutorials/cmake_install.cmake")
   include("/home/akira/catkin_ws/build/my_mecanum_controller/cmake_install.cmake")
   include("/home/akira/catkin_ws/build/nexus_4wd_mecanum_simulator/nexus_4wd_mecanum_gazebo/cmake_install.cmake")
-  include("/home/akira/catkin_ws/build/gazebo_mecanum_plugins/cmake_install.cmake")
   include("/home/akira/catkin_ws/build/nexus_4wd_mecanum_simulator/nexus_4wd_mecanum_description/cmake_install.cmake")
 
 endif()

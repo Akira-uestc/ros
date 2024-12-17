@@ -1,2 +1,2 @@
-beginner_tutorials:gazebo_mecanum_plugins:my_mecanum_controller:nexus_4wd_mecanum_simulator/nexus_4wd_mecanum_description:nexus_4wd_mecanum_simulator/nexus_4wd_mecanum_gazebo
+my_mecanum_controller:nexus_4wd_mecanum_simulator/nexus_4wd_mecanum_description:nexus_4wd_mecanum_simulator/nexus_4wd_mecanum_gazebo
 -DCATKIN_DEVEL_PREFIX=/home/akira/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/akira/catkin_ws/install -G Unix Makefiles
